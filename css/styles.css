@@ -9,3 +9,22 @@ body {
 h1 {
     margin-top: 0;
 }
+
+
+.topcomtainer {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+.middlecontainer {
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+}
+
+.bottomcontainer {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
