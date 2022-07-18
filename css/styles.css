@@ -15,17 +15,17 @@ h1 {
     height: 200px;
     width: 200px;
     background-color: rgb(39, 39, 243);
-    position: relative;
-    left: 400px;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+   
 }
-
 .middlecontainer {
     height: 200px;
     width: 200px;
     background-color: rgb(250, 250, 31);
-    position: relative;
-    bottom: 200px;
-    left: 200px;
+    position: absolute;
+ 
     
 
 }
@@ -34,6 +34,8 @@ h1 {
     height: 200px;
     width: 200px;
     background-color: red;
-    position: relative;
-    bottom: 400px;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+
 }
