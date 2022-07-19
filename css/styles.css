@@ -1,5 +1,6 @@
 div {
     background-color: #E4F9F5;
+    margin-top: 0;
 }
 
 body {
@@ -8,8 +9,23 @@ body {
 }
 
 h1 {
+    padding-top: 80px;
     margin-top: 0;
 }
+
+.top-cloud {
+    position: absolute;
+    left: 55%;
+    top: 4%;
+}
+
+
+.bottom-cloud {
+    position: absolute;
+    left: 35%
+}
+
+
 
 
 .topcomtainer {
